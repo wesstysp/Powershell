@@ -1,0 +1,1 @@
+New-PSDrive -Name F -PSProvider FileSystem -Root \\192.168.0.78\WEBDNC
